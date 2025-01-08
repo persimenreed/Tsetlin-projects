@@ -10,5 +10,9 @@ The projects uses type 1 and type 2 feedback to classify whether a patient with 
 ![tsetlin2](https://github.com/user-attachments/assets/325f825a-9ec3-4378-9c0c-59875752dd30)    
 In this screenshot, the tsetlin machine created three rules for each of the actions, and used them to classify the patients, and got correct in all classifications.
 
-![tsetlin3](https://github.com/user-attachments/assets/2326797f-6747-4999-9e97-b27121033081)
+## Interactive stationary distribution
+To visualize the distribution chart, a Literal Automaton with eigth states was created. The equations for the chart was given as follows:    
+![tsetlin4](https://github.com/user-attachments/assets/dea463f9-7e9b-4372-9c45-343fc9b57016)    
+Using these equations, with dynamic sliders, we could define a distribution chart based of the specificity s, and the probabilities P(Y) and P(L|Y).
+![tsetlin3](https://github.com/user-attachments/assets/2326797f-6747-4999-9e97-b27121033081)    
 
