@@ -13,6 +13,6 @@ In this screenshot, the tsetlin machine created three rules for each of the acti
 ## Interactive stationary distribution
 To visualize the distribution chart, a Literal Automaton with eigth states was created. The equations for the chart was given as follows:    
 ![tsetlin4](https://github.com/user-attachments/assets/dea463f9-7e9b-4372-9c45-343fc9b57016)    
-Using these equations, with dynamic sliders, we could define a distribution chart based of the specificity s, and the probabilities P(Y) and P(L|Y).
+Using these equations, with dynamic sliders, we could make a distribution chart based of the specificity s, and the probabilities P(Y) and P(L|Y) to vizualize the probabilities for the automaton to be in each of the states.
 ![tsetlin3](https://github.com/user-attachments/assets/2326797f-6747-4999-9e97-b27121033081)    
 
